@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "Stefano Marzorati's Blog"
+subtitle:   "Blog di TEST su GitHub con Jekyll"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "Stefano Marzorati"
 header-img: "img/post-bg-06.jpg"
 ---
 
