@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+title: Stefano Marzorati
+email: stefano@marzorati.co
+description: "ICT System Administrator"
 baseurl: "/blog"
 url: "http://stefano.marzorati.co/blog"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: marzorati_ste
+github_username:  marste
+facebook_username:  stefano.marzorati
 
 # Build settings
 markdown: kramdown
