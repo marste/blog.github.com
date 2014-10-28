@@ -11,5 +11,5 @@ facebook_username:  stefano.marzorati
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
+paginate: 0
 exclude: ["node_modules"]
