@@ -12,5 +12,5 @@ linkedin_username:  stefano-marzorati/32/377/792/
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 0
+paginate: 1
 exclude: ["node_modules"]
